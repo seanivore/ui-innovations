@@ -1,8 +1,20 @@
-# UI Innovations
+# Collaborative UI Innovation Funnel
 
 ## Overview 
 
 Dispatch sub-agents to work in parallel, each starting at the same creative point, and all naturally evolving into different, unique styles. 
+
+## Quick Start 
+
+**Ready for Funnel Workflows**
+
+```bash
+# Perfect pricing component through evolution
+claude > /project:parallel_volley_funnel ./perfect_pricing_component_spec.md 16 5
+
+# Revolutionary coding workspace concepts  
+claude > /project:parallel_volley_funnel ./ai_coding_workspace_spec.md 20 5
+```
 
 ### Sort Of Like 
   - Hiring a handful of agencies to work on the same project just to see what they come up with. 
