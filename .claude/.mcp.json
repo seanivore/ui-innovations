@@ -13,6 +13,17 @@
         "-y",
         "@modelcontextprotocol/server-sequential-thinking"
       ]
+    },
+    "Robust Web Browser": {
+      "command": "uv",
+      "args": [
+        "tool",
+        "run",
+        "web-browser-mcp-server"
+      ],
+      "env": {
+        "REQUEST_TIMEOUT": "30"
+      }
     }
   }
 }
