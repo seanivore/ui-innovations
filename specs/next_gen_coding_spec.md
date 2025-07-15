@@ -33,7 +33,6 @@ Build the next evolution of AI-assisted coding interfaces that goes beyond tradi
 
 #### Beginning Context
 - Analysis of current AI coding tools and their limitations
-- Sean's experience with Claude Code and AI pair programming
 - Developer pain points in context management and AI collaboration
 - Market opportunities in the rapidly evolving AI developer tools space
 
@@ -92,6 +91,12 @@ What performance metrics matter most for AI-assisted coding?
 How can we minimize distractions while maximizing AI value?
 What user testing approaches will validate the collaboration improvements?
 ```
+
+---
+
+## Tools 
+
+There is a Model Context Protocol server named 
 
 ---
 

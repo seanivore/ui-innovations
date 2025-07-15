@@ -23,7 +23,6 @@ Create the definitive pricing component that sets the new standard for conversio
 
 #### Beginning Context
 - List of popular UI component marketplaces and their top sellers
-- Sean's collection of pricing page examples and conversion data
 - Current market gaps in pricing component offerings
 - Developer pain points with existing pricing components
 
